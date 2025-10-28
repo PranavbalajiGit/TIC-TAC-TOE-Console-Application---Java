@@ -234,7 +234,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**PRANAV BALAJI P MA**
+**PRANAV BALAJI P MA - Tech Enthusiast**
 
 Feel free to contribute, report issues, or suggest improvements!
 
